@@ -1,5 +1,7 @@
 # Student Anxiety Profiling System 
 
+ **Live Demo:** [Click here](https://student-anxiety-profiling-kjhypye289wrqx6fhzl7wb.streamlit.app/)
+
 A rule-based expert system that profiles university students 
 into 7 distinct anxiety risk categories to support counselors 
 in delivering personalized interventions.
